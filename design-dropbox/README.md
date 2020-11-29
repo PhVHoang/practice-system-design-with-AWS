@@ -10,3 +10,5 @@ One thing to remember, Dropbox is a Cloud Storage system. So what do we wish to 
 6. The system should support offline editing. Users should be able to add/delete/modify files while offline, and as soon as they come online, all their changes should be synced to the remote
 servers and other online devices.
 7. (Extended Requirements) The system should support snapshotting of the data so that users can go back to any version of the files.
+
+![alt text](https://github.com/PhVHoang/practice-system-design-with-AWS/blob/master/design-dropbox/Dropbox.png?raw=true)
